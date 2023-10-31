@@ -47,7 +47,7 @@ The application provides RESTful APIs for user registration, login, password res
 ## API Routes
 1. /user/register: User registration.
 2. /user/login: User login.
-3./user/reset-password: Request a password reset.
+3. /user/reset-password: Request a password reset.
 4. /book/create: Create a book.
 5. /book/list: List all books.
 6. /book/search: Search all books.
