@@ -32,12 +32,12 @@ Before you begin, ensure you have met the following requirements:
 
    npm run dev
 
-5. The API will be accessible at http://localhost:3000 by default. You can use tools like Postman to test the API endpoints locally.
+5. The API will be accessible at http://localhost:3000 by default.
 
 ## Project Structure
 The project structure is organized as follows:
 
-* src/ contains the main application code, including controllers, models, routes, middleware, and error handling.
+* src/ contains the main application code, including controllers, models, routes, and middleware.
 * app.js is the main entry point for the application.
 * package.json lists project dependencies and scripts.
 
